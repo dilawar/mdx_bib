@@ -1,3 +1,9 @@
+# This script is modified from  https://github.com/darwindarak/mdx_bib
+__author__           = "Darwin Dwarkananda, Dilawar Singh"
+__copyright__        = "Copyright 2019-, Dilawar Singh"
+__maintainer__       = "Dilawar Singh"
+__email__            = "dilawars@ncbs.res.in"
+
 from markdown.extensions import Extension
 from markdown.preprocessors import Preprocessor
 from markdown.treeprocessors import Treeprocessor
