@@ -1,6 +1,5 @@
 # This script is modified from  https://github.com/darwindarak/mdx_bib
-__author__           = "Darwin Dwarkananda, Dilawar Singh"
-__copyright__        = "Copyright 2019-, Dilawar Singh"
+__author__           = "Darwin Dwarkananda"
 __maintainer__       = "Dilawar Singh"
 __email__            = "dilawars@ncbs.res.in"
 
